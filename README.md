@@ -44,9 +44,22 @@ This checklist intends to list all actions required when leveiling a character t
 - Meet Fia, Deathbed Companion. No need to embrace her yet. `[NPC: Fia]`
 - Jump down from the balcony. Let Albricht complete the gesture. `[GESTURE: Reverential Bow]`
 
-## Caelid
-- Meet Iron Fist Alexander stuck at the Gael Tunnel, just on the Calid side on the cliffs between Stormveil and Caelid `[NPC: Alexander]`
-
 ## Weeping Peninsula
 - Meet Irina of Morne after traversing Bridge of Sacrifice. Accept letter. `[NPC: Irina]`
+- Kill the scarab at the end of the canyon. `[ASH OF WAR: Mighty Shot]`
+- Meet nomadic merchant at the Castle Morne Wall grace. Buy notice. `[NOTICE: Mob of demihumans]`
+- Go back north on the right side of the canyon. Take item from the dead figure sitting on a chair. `[STONESWORD KEY]`
+- Go directly east from Castle Morne Wall grace into Callu Baptismal Church, at the southern edge of Ailing Village. `[SACRED TEAR]` `[SPELL: Searing Flame]`
+- Further east from the Ailing Village, drop down into the canyon using the stone slabs. Kill scarab for spell. `[SPELL: Lightning spear]`
+- Enter Morne Tunnel at the end of the canoyn. `[STAKE OF MARIKA]`
+- Kill boss at the Demihuman Forest Ruins, near the northern edge of the peninsula. `[SPELL: Crystal Burst]`
+- Find crystal tear directly north of Demihuman Forest Ruins.`[CRYSTAL TEAR: Faith Knot Crystal Tear]`
+- Enter Church of Pilgrimage at the northwestern tip of the peninsula. `[SACRED TEAR]`
+- Enter Fourth Church of Marika. `[SACRED TEAR]`
+- Find cookbook at the Tombsward Cave, east of Fourth Church of Marika. `[STAKE OF MARIKA]` `[COOKBOOK: Nomadic Warrior's Cookbook 8]`
+- Find stuff at the Tombsward Catacombs, south of Fourth Church of Marika. `[STAKE OF MARIKA]` `[COOKBOOK: Nomadic Warrior's Cookbook 9]` `[TOOL: Thanks]`
+- Find Isolated Merchant's Shack at the west beach. Buy stuff. `[STONESWORD KEY]` `[NOTICE: Wandering Mausoleum]` `[TOOL: Lantern]`
+
+## Caelid
+- Open the door for Iron Fist Alexander, stuck at the Gael Tunnel. Tunnel entrance is on the Calid side on the cliffs between Stormveil and Caelid. Kill the boss. `[DRAGON HEART]` `[STAKE OF MARIKA]` `[NPC: Alexander]`
 
