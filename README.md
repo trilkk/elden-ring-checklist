@@ -23,16 +23,16 @@ This checklist intends to list all actions required when leveiling a character t
 - Return to Kenneth Haight, pledge service. `[NPC: Kenneth Haight]`
 - Go down Siofra River Well, activate grace, return up.
 - Find crystal tears near the minor erdtree just outside Siofra River Well. `[CRYSTAL TEAR: Greenspill Crystal Tear]` `[CRYSTAL TEAR: Spiked Cracked Tear]`
+- Meet Iron Fist Alexander near the road towards Caelid. Use two heavy attacks to pop him out. `[NPC: Alexander]` `[GESTURE: Triumphant Delight]`
+- Meet D, Hunter of the Dead near Summonwater Village. `[NPC: D]`
+- Defeat Tibia Mariner at Summonwater Village. `[DEATHROOT]` `[SPIRIT ASH: Skeletal Militiaman]`
+- Defeat Anastasia, Tarnished Eater at Smoldering Church. `[COOKBOOK: Missionary's Cookbook 3]` `[COOKBOOK: Nomadic Warrior's Cookbook 14]`
 
 ## Stormhill
 - Meet Roderika at Stormhill Shack. `[NPC: Roderika]` `[GESTURE: Sitting Sideways]` `[SPIRIT ASH: Spirit Jellyfish]`
 - Find golden seed near Stormhill Shack `[GOLDEN SEED]`
 - Defeat Recusant Henricus at the ruins to the north. `[KEY: Duelist's Furled Finger]` `[KEY: Small Red Effigy]`
 - Meet Knight Bernahl at Warmaster's Shack. Buy ashes of war. `[NPC: Bernahl]`
-- Meet Iron Fist Alexander near the road towards Caelid. Use two heavy attacks to pop him out. `[NPC: Alexander]` `[GESTURE: Triumphant Delight]`
-- Meet D, Hunter of the Dead near Summonwater Village. `[NPC: D]`
-- Defeat Tibia Mariner at Summonwater Village. `[DEATHROOT]` `[SPIRIT ASH: Skeletal Militiaman]`
-- Defeat Anastasia, Tarnished Eater at Smoldering Church. `[COOKBOOK: Missionary's Cookbook 3]` `[COOKBOOK: Nomadic Warrior's Cookbook 14]`
 - Go to Stormveil Castle. `[BOSS: Margit the Fell Omen]`
 
 ## Roundtable Hold
@@ -43,6 +43,9 @@ This checklist intends to list all actions required when leveiling a character t
 - Meet Smithing Master Hewg. `[NPC: Hewg]`
 - Meet Fia, Deathbed Companion. No need to embrace her yet. `[NPC: Fia]`
 - Jump down from the balcony. Let Albricht complete the gesture. `[GESTURE: Reverential Bow]`
+
+## Caelid
+- Meet Iron Fist Alexander stuck at the Gael Tunnel, just on the Calid side on the cliffs between Stormveil and Caelid `[NPC: Alexander]`
 
 ## Weeping Peninsula
 - Meet Irina of Morne after traversing Bridge of Sacrifice. Accept letter. `[NPC: Irina]`
